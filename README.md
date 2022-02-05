@@ -1,4 +1,4 @@
-## NAME_OF_YOUR_APP_HERE
+## FirstApp
 
 ### App Description
 `TODO://` Add app description
